@@ -4,8 +4,6 @@
 <p align="center"> <img src="https://github.com/Offensive-Panda/Offensive-Panda/blob/main/panda.jpg" alt="offensive-panda" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=offensive-panda&label=Profile%20views&color=0e75b6&style=flat" alt="offensive-panda" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=offensive-panda" alt="offensive-panda" /></a> </p>
-
 - 🔭 I’m currently working on **Adversary Emulation, Red Team, Breach and Attack Simulation**
 
 - 👯 I’m looking to contribute on [Advanced Evasion Techniques](https://offensive-panda.github.io/DefenseEvasionTechniques/)
