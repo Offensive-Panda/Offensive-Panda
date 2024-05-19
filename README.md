@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=offensive-panda&label=Profile%20views&color=0e75b6&style=flat" alt="offensive-panda" /> </p>
 
 - 🧑‍💻 **Offensive Security Researcher.**
-- 🔭 I’m currently working on **Adversary Emulation, Red Team, Malware Research and Breach and Attack Simulation.**
+- 🔭 I’m currently working on **Adversary Emulation, Red Team, Malware Research, and Breach & Attack Simulation.**
 
 - 👯 I’m looking to contribute on [Advanced Evasion Techniques](https://offensive-panda.github.io/DefenseEvasionTechniques/)
 
