@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Usman Sikander (a.k.a Offensive-Panda)</h1>
 <h3 align="center">An infosec guy who's constantly seeking for knowledge. Do purple 💜, but more in love with Red ❤️.</h3>
 
-<p align="center"> <img src="https://github.com/Offensive-Panda/Offensive-Panda/blob/main/panda.jpg" alt="offensive-panda" /> </p>
+<p align="center"> <img src="https://Offensive-Panda.github.io/PF.jpg" alt="offensive-panda" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=offensive-panda&label=Profile%20views&color=0e75b6&style=flat" alt="offensive-panda" /> </p>
 
 - 🧑‍💻 **Offensive Security Researcher.**
