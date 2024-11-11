@@ -7,11 +7,7 @@
 - 🧑‍💻 **Offensive Security Researcher.**
 - 🔭 I’m currently working on **Adversary Emulation, Red Team, Malware Research, and Breach & Attack Simulation.**
 
-- 👯 I’m looking to contribute on [Advanced Evasion Techniques](https://offensive-panda.github.io/DefenseEvasionTechniques/)
-
 - 🤝 I’m in love to perform **Adversary Emulation and Proactive Threat Hunting**
-
-- 👨‍💻 All of my projects are available at [https://offensive-panda.github.io/DefenseEvasionTechniques/](https://offensive-panda.github.io/DefenseEvasionTechniques/)
 
 - 📝 I regularly write articles on [https://medium.com/@merasor07](https://medium.com/@merasor07)
 
