@@ -1,4 +1,4 @@
-9i<h1 align="center">Hi 👋, I'm Usman Sikander (a.k.a Offensive-Panda)</h1>
+<h1 align="center">Hi 👋, I'm Usman Sikander (a.k.a Offensive-Panda)</h1>
 <h3 align="center">An infosec guy who's constantly seeking for knowledge. Do purple 💜, but more in love with Red ❤️.</h3>
 
 <p align="center"> <img src="panda.jpg" alt="portfolio"  /> </p>
